@@ -8,7 +8,7 @@ A collection of LeetCode Blind 75 solutions organized by topic.
 
 | Category | Completed | Total |
 |----------|-----------|-------|
-| Arrays / Strings | 4 | 15 |
+| Arrays / Strings | 7 | 15 |
 | Two Pointers | 1 | 1 |
 | HashMap / Sliding Window | 0 | 10 |
 | Stack / Queue | 1 | 8 |
@@ -18,7 +18,7 @@ A collection of LeetCode Blind 75 solutions organized by topic.
 | Basic DP | 0 | 10 |
 | Binary Search | 1 | 2 |
 | Graphs | 0 | 2 |
-| **Total** | **8** | **76** |
+| **Total** | **11** | **76** |
 
 ---
 
