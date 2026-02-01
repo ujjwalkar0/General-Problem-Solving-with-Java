@@ -1,0 +1,5 @@
+{
+    "dotnet.server.useOmnisharp": true,
+    "github.copilot.enable": false,
+    "github.copilot.inlineSuggest.enable": false
+}
