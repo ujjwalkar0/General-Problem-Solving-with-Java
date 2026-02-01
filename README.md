@@ -30,7 +30,7 @@ A collection of LeetCode Blind 75 solutions organized by topic.
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | ✅ |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | ✅ |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | ✅ |
-| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | 🚧 |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | ✅ |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | ⬜ |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ⬜ |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | ⬜ |

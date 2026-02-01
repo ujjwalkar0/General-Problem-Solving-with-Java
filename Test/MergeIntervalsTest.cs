@@ -29,7 +29,7 @@ namespace Test
             int[][] intervals = [[1, 3], [2, 6], [8, 10], [15, 18]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 6], [8, 10], [15, 18]];
@@ -43,7 +43,7 @@ namespace Test
             int[][] intervals = [[1, 4], [4, 5]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 5]];
@@ -57,7 +57,7 @@ namespace Test
             int[][] intervals = [[4, 7], [1, 4]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 7]];
@@ -71,7 +71,7 @@ namespace Test
             int[][] intervals = [[1, 5]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 5]];
@@ -85,7 +85,7 @@ namespace Test
             int[][] intervals = [[1, 2], [4, 5], [7, 8]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 2], [4, 5], [7, 8]];
@@ -99,7 +99,7 @@ namespace Test
             int[][] intervals = [[1, 4], [2, 5], [3, 6]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 6]];
@@ -113,7 +113,7 @@ namespace Test
             int[][] intervals = [[1, 10], [2, 5], [6, 8]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 10]];
@@ -127,7 +127,7 @@ namespace Test
             int[][] intervals = [[8, 10], [1, 3], [2, 6], [15, 18]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 6], [8, 10], [15, 18]];
@@ -141,7 +141,7 @@ namespace Test
             int[][] intervals = [[1, 4], [1, 4]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 4]];
@@ -155,7 +155,7 @@ namespace Test
             int[][] intervals = [[1, 1], [2, 2], [3, 3]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 1], [2, 2], [3, 3]];
@@ -169,7 +169,7 @@ namespace Test
             int[][] intervals = [[1, 2], [2, 3], [3, 4], [4, 5]];
 
             // Act
-            int[][] result = _solution.merge(intervals);
+            int[][] result = _solution.Merge(intervals);
 
             // Assert
             int[][] expected = [[1, 5]];
