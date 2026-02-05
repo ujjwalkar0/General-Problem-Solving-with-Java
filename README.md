@@ -54,8 +54,8 @@ A collection of LeetCode Blind 75 solutions organized by topic.
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | ⬜ |
-| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | ⬜ |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | ✅ |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | ✅ |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | ⬜ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | ⬜ |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | ⬜ |
