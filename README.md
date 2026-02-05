@@ -32,13 +32,13 @@ A collection of LeetCode Blind 75 solutions organized by topic.
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | ✅ |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | ✅ |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ✅ |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | ⬜ |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | ✅ |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | ⬜ |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | ✅ |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ⬜ |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | ⬜ |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | ⬜ |
-| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | ⬜ |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | ✅ |
 
 ---
 
